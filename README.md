@@ -1,6 +1,6 @@
 # Simple Image Carousel with JavaScript
 
-**DEMO :** https://tiny-melomakarona-d6b689.netlify.app/
+**DEMO :** https://hilarious-nasturtium-2afbdb.netlify.app/
 
 Developed a responsive website for Simple Image Carousel using Javascript where images can be displayed in a slider.
 
